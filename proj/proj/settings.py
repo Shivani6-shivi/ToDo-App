@@ -123,7 +123,7 @@ STATIC_URL = '/static/'
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'xyz@gmail.com' 
+EMAIL_HOST_USER = 'abcz@gmail.com' 
 EMAIL_HOST_PASSWORD = 'ffff ssss dddd ffff'
 EMAIL_USE_TLS = True
 
